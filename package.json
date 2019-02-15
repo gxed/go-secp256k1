@@ -1,0 +1,16 @@
+{
+  "author": "karalabe",
+  "bugs": {
+    "url": "https://github.com/ipsn/go-secp256k1"
+  },
+  "gx": {
+    "dvcsimport": "github.com/gxed/go-secp256k1"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "",
+  "name": "go-secp256k1",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
